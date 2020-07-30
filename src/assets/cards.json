@@ -2,7 +2,7 @@
     {"row":[
             {
                 "projectTitle": "Password Generator",
-                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/PasswordGeneratorSS.PNG",
+                "projectImage": "../../assets/images/PasswordGeneratorSS.PNG",
                 "alt": "Password Generator Screenshot",
                 "deployedLink": "https://fenixtrax18.github.io/Password-Generator/",
                 "githubLink": "https://github.com/FenixTrax18/Password-Generator"

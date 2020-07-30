@@ -7,7 +7,7 @@ function Card(props) {
             {props.cardData.projectTitle}
         </div>
             <div className="card-body glowBox">
-              <img src={props.cardData.projectImage} className="card-img-top" alt={props.cardData.alt}/>
+              <img src={require(props.cardData.projectImage)} className="card-img-top" alt={props.cardData.alt}/>
             </div>
             <div className="card-footer glowBox">
               <a className="card-text" href={props.cardData.deployedLink}>Deployed App</a>
