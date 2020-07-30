@@ -1,0 +1,101 @@
+[
+    {"row":[
+            {
+                "projectTitle": "Password Generator",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/PasswordGeneratorSS.PNG",
+                "alt": "Password Generator Screenshot",
+                "deployedLink": "https://fenixtrax18.github.io/Password-Generator/",
+                "githubLink": "https://github.com/FenixTrax18/Password-Generator"
+            },
+            {
+                "projectTitle": "Coding Quiz",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/CodingQuizSS.PNG",
+                "alt": "Coding Quiz Screenshot",
+                "deployedLink": "https://fenixtrax18.github.io/Coding-Quiz/",
+                "githubLink": "https://github.com/FenixTrax18/Coding-Quiz"
+            }
+    ]},
+
+    {"row":[
+        {
+            "projectTitle": "Workday Planner",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/WorkdayPlannerSS.PNG",
+                "alt": "Workday Planner Screenshot",
+                "deployedLink": "https://fenixtrax18.github.io/Workday-Planner/",
+                "githubLink": "https://github.com/FenixTrax18/Workday-Planner"
+        },
+        {
+            "projectTitle": "Weather Dashboard",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/WeatherDashboardSS.PNG",
+                "alt": "Weather Dashboard Screenshot",
+                "deployedLink": "https://fenixtrax18.github.io/Weather-Dashboard/",
+                "githubLink": "https://github.com/FenixTrax18/Weather-Dashboard"
+        }
+    ]},
+
+    {"row":[
+        {
+            "projectTitle": "Pantry Buddy",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/PantryBuddySS.PNG",
+                "alt": "Pantry Buddy Screenshot",
+                "deployedLink": "https://fenixtrax18.github.io/project_1_pantry_buddy/",
+                "githubLink": "https://github.com/FenixTrax18/project_1_pantry_buddy"
+        },
+        {
+            "projectTitle": "Note Taker",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/NoteTakerSS.PNG",
+                "alt": "Note Taker Screenshot",
+                "deployedLink": "https://fenixtrax18-note-taker.herokuapp.com/",
+                "githubLink": "https://github.com/FenixTrax18/Note-Taker"
+        }
+    ]},
+
+    {"row":[
+        {
+            "projectTitle": "Eat Da Burger",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/BurgerAppSS.PNG",
+                "alt": "Burger App Screenshot",
+                "deployedLink": "https://fenixtrax18-burgers.herokuapp.com/",
+                "githubLink": "https://github.com/FenixTrax18/Burger"
+        },
+        {
+            "projectTitle": "Red Planet Voyagers",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/RedPlantVoyagersSS.PNG",
+                "alt": "Red Planet Voyagers Screenshot",
+                "deployedLink": "https://team-5-project-2.herokuapp.com/",
+                "githubLink": "https://github.com/FenixTrax18/Project-2"
+        }
+    ]},
+    {"row":[
+        {
+            "projectTitle": "Fitness Tracker",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/FitnessTrackerSS.PNG",
+                "alt": "Fitness Tracker Screenshot",
+                "deployedLink": "https://fenixtrax18-workout-tracker.herokuapp.com/",
+                "githubLink": "https://github.com/FenixTrax18/Workout-Tracker"
+        },
+        {
+            "projectTitle": "Progressive Budget",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/ProgressiveBudgetSS.PNG",
+                "alt": "Progressive Budget Screenshot",
+                "deployedLink": "https://fenixtrax18-progressive-budget.herokuapp.com/",
+                "githubLink": "https://github.com/FenixTrax18/Progressive-Budget"
+        }
+    ]},
+    {"row":[
+        {
+            "projectTitle": "User Directory",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/#",
+                "alt": "User Directory Screenshot",
+                "deployedLink": "#",
+                "githubLink": "#"
+        },
+        {
+            "projectTitle": "Project 3 Placeholder",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/#",
+                "alt": "Project 3 Placeholder Screenshot",
+                "deployedLink": "#",
+                "githubLink": "#"
+        }
+    ]}
+]
