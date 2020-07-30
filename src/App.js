@@ -4,12 +4,17 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 //import 'bootstrap/dist/css/bootstrap.min.css';
 import PortfolioPg from "./pages/portfolio";
 import Portfolio from './components/Portfolio';
+import Images from '../src/assets/images';
 
-{/* import images (dependent on push to GitHub), import node projects, fix FDL, pages/routing */}
+{/* import images (issue with paths), import node projects, fix FDL, ?pages/routing? */}
 
 function App() {
   return (
-      <PortfolioPg/>
+      <Router>
+      <div>
+          <Route exact path="/" component={PortfolioPg} />
+      </div>
+    </Router>
   );
 }
 
