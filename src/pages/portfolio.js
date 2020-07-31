@@ -6,14 +6,13 @@ import Quote from '../components/Quote';
 import PortHeader from '../components/PortHeader';
 import Portfolio from '../components/Portfolio';
 import Footer from '../components/Footer';
-import portCardArr from "../assets/cards.json";
+import portCardArr from "../cards.json";
 
 class PortfolioPg extends Component {
   state = {
     portCardArr
   };
 
-  
   render() {
     return (
       <div className="App parallax">
