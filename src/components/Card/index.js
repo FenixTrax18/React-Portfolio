@@ -1,5 +1,4 @@
 import React from "react";
-import PWGenSS from "../../assets/images/PasswordGeneratorSS.PNG";
 
 function Card(props) {
     return(
