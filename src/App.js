@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div>
           <Route exact path="/React-Portfolio/" component={AboutPg} />
-          <Route exact path="/React-Portfolio/Portfolio" component={PortfolioPg} />
+          <Route path="/React-Portfolio/Portfolio" component={PortfolioPg} />
       </div>
     </Router>
   );
