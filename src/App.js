@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { HashRouter as Router, Route } from "react-router-dom";
+import { HashRouter as HashRouter, Link } from "react-router-dom";
 //import 'bootstrap/dist/css/bootstrap.min.css';
 import AboutPg from "./pages/about";
 import PortfolioPg from "./pages/portfolio";
@@ -8,12 +8,12 @@ import PortfolioPg from "./pages/portfolio";
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <div>
-          <Route exact path="/React-Portfolio/" component={AboutPg} />
-          <Route exact path="/React-Portfolio/Portfolio/" component={PortfolioPg} />
+          <Link to="/React-Portfolio/" component={AboutPg} />
+          <Link to="/React-Portfolio/Portfolio/" component={PortfolioPg} />
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
