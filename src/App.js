@@ -13,7 +13,7 @@ function App() {
     <Router>
       <div>
           <Route exact path="/React-Portfolio/" component={AboutPg} />
-          <Route exact path="/React-Portfolio/Portfolio" component={PortfolioPg} />
+          <Route exact path={process.env.PUBLIC_URL+"/Portfolio"} component={PortfolioPg} />
       </div>
     </Router>
   );
