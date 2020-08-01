@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.db216f22.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.e1db8e5d.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.e1db8e5d.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.dba103e7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.26276efe.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.26276efe.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
     "static/css/2.af3c1da9.chunk.css": "/React-Portfolio/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5cf8f464.chunk.js": "/React-Portfolio/static/js/2.5cf8f464.chunk.js",
-    "static/js/2.5cf8f464.chunk.js.map": "/React-Portfolio/static/js/2.5cf8f464.chunk.js.map",
+    "static/js/2.844a9293.chunk.js": "/React-Portfolio/static/js/2.844a9293.chunk.js",
+    "static/js/2.844a9293.chunk.js.map": "/React-Portfolio/static/js/2.844a9293.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.796b92b593b93fc05d8141f7f9c2ee27.js": "/React-Portfolio/precache-manifest.796b92b593b93fc05d8141f7f9c2ee27.js",
+    "precache-manifest.48ad5ecbb90a28fb2e63a46862382d33.js": "/React-Portfolio/precache-manifest.48ad5ecbb90a28fb2e63a46862382d33.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/React-Portfolio/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.db216f22.chunk.css.map": "/React-Portfolio/static/css/main.db216f22.chunk.css.map",
-    "static/js/2.5cf8f464.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.5cf8f464.chunk.js.LICENSE.txt",
+    "static/css/main.dba103e7.chunk.css.map": "/React-Portfolio/static/css/main.dba103e7.chunk.css.map",
+    "static/js/2.844a9293.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.844a9293.chunk.js.LICENSE.txt",
     "static/media/J&K.jpg": "/React-Portfolio/static/media/J&K.2f519ba2.jpg",
     "static/media/index.css": "/React-Portfolio/static/media/blueflowers.975f7b39.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.266d4783.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5cf8f464.chunk.js",
-    "static/css/main.db216f22.chunk.css",
-    "static/js/main.e1db8e5d.chunk.js"
+    "static/js/2.844a9293.chunk.js",
+    "static/css/main.dba103e7.chunk.css",
+    "static/js/main.26276efe.chunk.js"
   ]
 }
