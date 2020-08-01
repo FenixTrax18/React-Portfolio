@@ -85,15 +85,15 @@
     {"row":[
         {
             "projectTitle": "User Directory",
-                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/#",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/UserDirectory.PNG",
                 "alt": "User Directory Screenshot",
-                "deployedLink": "#",
-                "githubLink": "#"
+                "deployedLink": "https://fenixtrax18.github.io/Employee-Directory/",
+                "githubLink": "https://github.com/FenixTrax18/Employee-Directory"
         },
         {
-            "projectTitle": "Project 3 Placeholder",
-                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/#",
-                "alt": "Project 3 Placeholder Screenshot",
+            "projectTitle": "Project 3 Coming Soon",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/ComingSoonSS.PNG",
+                "alt": "Coming Soon Screenshot",
                 "deployedLink": "#",
                 "githubLink": "#"
         }
