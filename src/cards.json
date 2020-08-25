@@ -91,11 +91,11 @@
                 "githubLink": "https://github.com/FenixTrax18/Employee-Directory"
         },
         {
-            "projectTitle": "Project 3 Coming Soon",
-                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/ComingSoonSS.PNG",
-                "alt": "Coming Soon Screenshot",
-                "deployedLink": "#",
-                "githubLink": "#"
+            "projectTitle": "T&D",
+                "projectImage": "https://fenixtrax18.github.io/React-Portfolio/assets/images/TNDSS.PNG",
+                "alt": "T&D Screenshot",
+                "deployedLink": "https://to-n-do.herokuapp.com/",
+                "githubLink": "https://github.com/FenixTrax18/t-n-d"
         }
     ]}
 ]
